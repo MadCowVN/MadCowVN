@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ngan 👋</h1>
+<h1 align="center">Hi, I'm Ngan <img src="evildog.gif" width="64"></h1>
 
 <p align="center">
   I build small games to figure out how software actually works,<br>
