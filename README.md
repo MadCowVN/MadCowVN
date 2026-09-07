@@ -16,9 +16,10 @@
 Games are an honest teacher. The bug doesn't hide in a log file. It's right
 there on screen, moving, embarrassing you in real time.
 
-- **[Pong_Game](https://github.com/MadCowVN/Pong_Game)** is the classic,
-  written from scratch in JavaScript for a graded assignment. Not the
-  prettiest Pong ever made, but every line of it is mine.
+- **[Pong](https://github.com/MadCowVN/Pong-Game)** is the classic, rebuilt from
+  scratch in JavaScript, then pushed further: an NPC opponent, a freeze move, an
+  auto-aim toggle and adjustable ball size.
+  **[Play it in your browser](https://madcowvn.github.io/Pong-Game/)**.
 - **[snake_game_python](https://github.com/MadCowVN/snake_game_python)** is
   Snake, built with Python and Pygame.
 - More on the way. I've got a pile of these I haven't uploaded yet.
