@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ngan 👋</h1>
 
 <p align="center">
-  A funny soul who codes for the joy of it —<br>
+  A funny soul who codes for the joy of it br>
   and who'd rather hear your real story than talk about frameworks.
 </p>
 
