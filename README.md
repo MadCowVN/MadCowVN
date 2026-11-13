@@ -37,7 +37,8 @@ there on screen, moving, embarrassing you in real time.
 | Game | Built with | What I added | Play |
 | --- | --- | --- | --- |
 | **[Pong](https://github.com/MadCowVN/Pong-Game)** | JavaScript | NPC opponent, freeze move, auto-aim toggle, adjustable ball size | [In your browser](https://madcowvn.github.io/Pong-Game/) |
-| **[Snake](https://github.com/MadCowVN/snake_game_python)** | Python, Pygame | The classic Snake game | Run locally |
+| **[Snake](https://github.com/MadCowVN/Snake-Game)** | Python, Pygame | The classic Snake game | Run locally |
+| **[AI Snake](https://github.com/MadCowVN/snake-ai)** | Python | The snake plays by itself: an AI uses search (Greedy, BFS, DFS, Dijkstra, A*) to reach the apples | Run locally |
 
 More on the way. I've got a pile of these I haven't uploaded yet.
 
