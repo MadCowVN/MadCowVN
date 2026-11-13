@@ -1,44 +1,56 @@
 <h1 align="center">Hi, I'm Ngan <img src="evildog.gif" width="64"></h1>
 
 <p align="center">
-  I build small games to figure out how software actually works,<br>
-  and I'm pointing that at apps and chatbots next.
+  I make games about the people society calls losers:<br>
+  the rejected, the restarting, the players who never go pro.
 </p>
 
 <p align="center">
+  <a href="https://madcowvn.github.io/Pong-Game/">
+    <img src="https://img.shields.io/badge/Play_Pong-in_your_browser-2ea44f?style=for-the-badge" alt="Play Pong in your browser">
+  </a>
   <a href="https://www.linkedin.com/in/ngannghiem2996">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-### 🎮 I learn by building games
+---
+
+### 🎯 What I make
+
+Games usually make you the hero: the chosen one, the champion. Most real lives
+look different. People get rejected, start over, and keep trying without anyone
+watching. That includes most competitive players, the ones who grind ranked for
+years and never go pro. I want to make games about them.
+
+### 🚧 Now building
+
+**A job-application game.** You play an ordinary person sending applications,
+collecting rejections, and deciding what to do after each one.
+*In progress. Repo coming soon.*
+
+### 🕹️ Games I've built
 
 Games are an honest teacher. The bug doesn't hide in a log file. It's right
 there on screen, moving, embarrassing you in real time.
 
-- **[Pong](https://github.com/MadCowVN/Pong-Game)** is the classic, rebuilt from
-  scratch in JavaScript, then pushed further: an NPC opponent, a freeze move, an
-  auto-aim toggle and adjustable ball size.
-  **[Play it in your browser](https://madcowvn.github.io/Pong-Game/)**.
-- **[snake_game_python](https://github.com/MadCowVN/snake_game_python)** is
-  Snake, built with Python and Pygame.
-- More on the way. I've got a pile of these I haven't uploaded yet.
+| Game | Built with | What I added | Play |
+| --- | --- | --- | --- |
+| **[Pong](https://github.com/MadCowVN/Pong-Game)** | JavaScript | NPC opponent, freeze move, auto-aim toggle, adjustable ball size | [In your browser](https://madcowvn.github.io/Pong-Game/) |
+| **[Snake](https://github.com/MadCowVN/snake_game_python)** | Python, Pygame | The classic Snake game | Run locally |
 
-### 🧭 Where I'm headed
-
-Game loops taught me state, input handling, and the particular pain of
-"why is this lagging". I want to aim that at things people use every day.
-
-- **Apps.** Something small and genuinely useful, before something big and
-  impressive.
-- **Chatbots.** Half engineering, half paying attention to how people really
-  talk. Which happens to be my favourite thing anyway.
+More on the way. I've got a pile of these I haven't uploaded yet.
 
 ### 🧰 What I work with
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,c,git,github,vscode" alt="JavaScript, Python, C, Git, GitHub, VS Code">
 </p>
+
+### 🎧 Where the stories come from
+
+I collect other people's stories. Everyone is carrying something more
+interesting than their job title suggests, and I like finding out what.
 
 ### 🐍 My contribution graph, being eaten
 
@@ -51,16 +63,10 @@ Game loops taught me state, input handling, and the particular pain of
        src="https://raw.githubusercontent.com/MadCowVN/MadCowVN/output/snake.svg">
 </picture>
 
-### 🎧 Away from the keyboard
-
-I collect other people's stories. Everyone is carrying something more
-interesting than their job title suggests, and I like finding out what.
-
 ### 📫 Say hi
 
-Open to a conversation, whether it's about code or not.
-[LinkedIn](https://www.linkedin.com/in/ngannghiem2996) is the fastest way to
-reach me.
+Open to a conversation, whether it's about games or not.
+[LinkedIn](https://www.linkedin.com/in/ngannghiem2996) is the fastest way to reach me.
 
 <!--
   ADD AS YOU UPLOAD. Paste new games into the list above, like this:
